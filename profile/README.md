@@ -2,7 +2,7 @@
 A random guy who likes the idea of modding an esoteric Minecraft fork because it feels like innovating in a world that’s not overmodified.
 
 ## Top Mods
-* [Paperwork](https://modrinth.com/mod/paperwork)
+### [Paperwork](https://modrinth.com/mod/paperwork)
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6edf926a-d22e-49b5-85bb-4884605f314c" />
 
 ### [Guidebook.md](https://modrinth.com/mod/guidebook.md)
